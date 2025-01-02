@@ -1,5 +1,5 @@
 # JS-Calculator
-### Click to use:- 
+### Click to use:- https://mushtaqumar.github.io/JS-Calculator/
 
 I developed a fully functional Calculator application using HTML, CSS, and JavaScript. This project combines a clean user interface with smooth functionality, allowing users to perform basic arithmetic operations like addition, subtraction, multiplication, modulus and division.
 
